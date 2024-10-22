@@ -5,15 +5,28 @@
 ## System Design
 ### Block Diagram:
 
+ <img width="500" alt="Screenshot 2024-10-21 at 6 20 25 PM" src="https://github.com/user-attachments/assets/48d55c81-c111-4177-903b-84500026351a">
+
 ### Flowchart: tasks diagram
 * Target task:
 
+<img width="500" alt="Screenshot 2024-10-21 at 7 58 45 PM" src="https://github.com/user-attachments/assets/2e2823a1-1de9-4217-a9c1-68c927cb182d">
+
 * Score display task
 
+<img width="500" alt="Screenshot 2024-10-21 at 7 58 53 PM" src="https://github.com/user-attachments/assets/96ecc4dc-bb8a-4359-82ac-fecfe601c12f">
+
+
+
 ## Implement Details
+
 ### Hardware design: circuit picture
 
+<img width="268" alt="Screenshot 2024-10-21 at 7 37 09 PM" src="https://github.com/user-attachments/assets/ea932967-0537-4aa4-a582-82d039e4603a">
+
 ### Schematics:
+
+<img width="685" alt="Screenshot 2024-10-21 at 7 59 03 PM" src="https://github.com/user-attachments/assets/191fcfb3-5a34-41cc-b43e-56ea44b3efd9">
 
 ## Testing/Evaluation:
 ### Testing environment:
